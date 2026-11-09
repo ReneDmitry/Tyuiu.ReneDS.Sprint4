@@ -7,7 +7,7 @@ namespace Tyuiu.ReneDS.Sprint4.Task0.V16.Lib
     {
         public int GetMultEvenArrEl(int[] array)
         {
-            int res = 1;
+            int res = 1; 
 
             for (int i = 0; i < array.Length; i++)
             {
@@ -17,7 +17,7 @@ namespace Tyuiu.ReneDS.Sprint4.Task0.V16.Lib
                 }
             }
 
-            return res;
+            return res; 
         }
     }
 }
