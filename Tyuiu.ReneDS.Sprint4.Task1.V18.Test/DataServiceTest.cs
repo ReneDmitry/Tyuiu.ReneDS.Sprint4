@@ -6,7 +6,7 @@ namespace Tyuiu.ReneDS.Sprint4.Task1.V18.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidCalculate()
         {
             DataService ds = new DataService();
 
